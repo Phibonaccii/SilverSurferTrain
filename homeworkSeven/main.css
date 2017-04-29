@@ -1,0 +1,36 @@
+body {
+    color: aquamarine;
+}
+.jumbotron {
+    background-image: url(https://media.giphy.com/media/13yIU4MVUNWjxS/giphy.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background-image: url(https://static.comicvine.com/uploads/original/12/122378/2322020-silversurferwallpapercopy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+panel-primary {
+    border-color: transparent;
+}
+.panel-primary>.panel-heading {
+    color: aquamarine;
+    background-color: transparent;
+    border-color: transparent;
+}
+.btn-primary {
+    color: aquamarine;
+    background-color: azure;
+    border-color: aquamarine;
+}
+
+
+.panel {
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 4px;
